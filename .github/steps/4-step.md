@@ -30,7 +30,7 @@ Copilot の [Plan Agent](https://code.visualstudio.com/docs/copilot/agents/plann
 
 1. **Copilot Chat** パネルを開き、**Plan Agent** に切り替えます。
 
-   <img width="350" alt="image" src="../images/plan-mode-dropdown.png" />
+   <img width="350" alt="image" src="https://github.com/102kazu703yoshi/skills-getting-started-with-github-copilot/blob/main/.github/images/plan-mode-dropdown.png?raw=true" />
 
 
 1. まずは大まかなプロンプトから始めます。細かいところは Copilot が埋めるのを手伝ってくれます。
@@ -64,7 +64,7 @@ Copilot の [Plan Agent](https://code.visualstudio.com/docs/copilot/agents/plann
 
 1. 提案された計画を確認し、納得できたら **Start implementation** をクリックして **Agent Mode** に引き渡します。
 
-   <img width="350" alt="image" src="../images/plan-mode-start-implementation.png" />
+   <img width="350" alt="image" src="https://github.com/102kazu703yoshi/skills-getting-started-with-github-copilot/blob/main/.github/images/plan-mode-start-implementation.png?raw=true" />
 
    ボタンを押すと **Plan** から **Agent Mode** に切り替わったことに注目してください。切り替わったあとは、前の Step と同じように Copilot がコードベースを編集できます。
 

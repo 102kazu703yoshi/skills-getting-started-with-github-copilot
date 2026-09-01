@@ -50,7 +50,7 @@
       # Validate student is not already signed up
       ```
 
-      <img width="700" alt="Copilot shadow text suggestion in the editor" src="../images/shadow-text.gif" />
+      <img width="700" alt="Copilot shadow text suggestion in the editor" src="https://github.com/102kazu703yoshi/skills-getting-started-with-github-copilot/blob/main/.github/images/shadow-text.gif?raw=true" />
 
    1. `Tab` を押して Copilot の候補を受け入れ、シャドーテキストをコードに変えます。
 
@@ -91,7 +91,7 @@
 
 1. `activities` 辞書の全体を、上から下へマウスでドラッグして選択します。選択すると、次のプロンプトのためのコンテキストを Copilot に渡せます。
 
-   <img width="700" alt="Highlighted activities dictionary before opening inline chat" src="../images/activities-dict-highlighted.png" />
+   <img width="700" alt="Highlighted activities dictionary before opening inline chat" src="https://github.com/102kazu703yoshi/skills-getting-started-with-github-copilot/blob/main/.github/images/activities-dict-highlighted.png?raw=true" />
 
 
 1. キーボードの `Ctrl + I`（Windows）または `Cmd + I`（Mac）で Copilot の Inline Chat を開きます。
@@ -188,7 +188,7 @@
 
 1. `app.py` ファイルを探し、`+` を押して変更をステージング領域にまとめます。
 
-   ![image](../images/staging-changes-icon.png)
+   ![image](https://github.com/102kazu703yoshi/skills-getting-started-with-github-copilot/blob/main/.github/images/staging-changes-icon.png?raw=true)
 
 1. ステージした変更の一覧の上にある **Message** の入力欄を見つけます。ただし、今は**何も入力しないでください**。
    - ふだんは入力欄に変更内容の短い説明を書きますが、今回は Copilot に手伝ってもらいます。

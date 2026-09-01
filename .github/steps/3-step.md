@@ -38,7 +38,7 @@ Copilot を使って、各活動の下に申し込み済みの生徒を表示す
 
 1. Copilot Chat ウィンドウの下部にあるドロップダウンで、**Agent** モードに切り替えます。
 
-   <img width="350" alt="image" src="../images/agent-mode-dropdown.png" />
+   <img width="350" alt="image" src="https://github.com/102kazu703yoshi/skills-getting-started-with-github-copilot/blob/main/.github/images/agent-mode-dropdown.png?raw=true" />
 
 1. ウェブページに関係するファイルを開き、各エディターウィンドウ（またはファイル）をチャットパネルへドラッグして、コンテキストとして使うよう Copilot に伝えます。
 
@@ -48,7 +48,7 @@ Copilot を使って、各活動の下に申し込み済みの生徒を表示す
 
    > 🪧 **注:** ファイルをコンテキストに追加するのは任意です。追加しなくても、Copilot Agent Mode は `#codebase` などのツールを使って、プロンプトから関連ファイルを探せます。ファイルを指定すると Copilot を正しい方向へ導きやすくなり、特に大きなコードベースで役立ちます。
 
-   <img width="400" alt="image showing files added to context" src="../images/files-added-to-context.png" />
+   <img width="400" alt="image showing files added to context" src="https://github.com/102kazu703yoshi/skills-getting-started-with-github-copilot/blob/main/.github/images/files-added-to-context.png?raw=true" />
 
    > 💡 **ヒント:** **Add Context...** ボタンを使うと、GitHub の issue やターミナルウィンドウの結果など、他の情報もコンテキストとして渡せます。
 
@@ -66,14 +66,14 @@ Copilot を使って、各活動の下に申し込み済みの生徒を表示す
 
    下の **Keep** ボタンを使って、すべての変更をまとめて受け入れる／破棄する、または 1 件ずつ確認して決める、のどちらもできます。チャットパネルからでも、編集された各ファイルを見ながらでも操作できます。
 
-      <img width="900" alt="buttons to keep or discard changes" src="../images/review-changes-buttons.png" />
+      <img width="900" alt="buttons to keep or discard changes" src="https://github.com/102kazu703yoshi/skills-getting-started-with-github-copilot/blob/main/.github/images/review-changes-buttons.png?raw=true" />
 
 
 1. すぐに変更を受け入れる前に、もう一度ウェブサイトを見て、想定どおりに更新されているか確認してください。
    
    更新後の活動カードの例を示します。アプリの再起動やページの再読み込みが必要なことがあります。
 
-   <img width="350" alt="Activity card with participant info" src="../images/activity-card-with-participants.png" />
+   <img width="350" alt="Activity card with participant info" src="https://github.com/102kazu703yoshi/skills-getting-started-with-github-copilot/blob/main/.github/images/activity-card-with-participants.png?raw=true" />
 
    > 🪧 **注:** 活動カードの見た目は違うかもしれません。Copilot はいつも同じ結果を出すとは限りません。
 
@@ -99,11 +99,11 @@ Copilot を使って、各活動の下に申し込み済みの生徒を表示す
 
 1. Copilot が **Agent** モードのままであることを確認します。
 
-   <img width="250" alt="agent mode" src="../images/agent-mode-dropdown.png" />
+   <img width="250" alt="agent mode" src="https://github.com/102kazu703yoshi/skills-getting-started-with-github-copilot/blob/main/.github/images/agent-mode-dropdown.png?raw=true" />
 
 1. **Tools** アイコンをクリックして、いま Copilot Agent Mode が使えるツールを一通り見てみます。
 
-   <img width="250"  alt="tools icon" src="../images/tools-icon.png" />
+   <img width="250"  alt="tools icon" src="https://github.com/102kazu703yoshi/skills-getting-started-with-github-copilot/blob/main/.github/images/tools-icon.png?raw=true" />
 
 1. 試してみましょう。参加者を削除する機能を追加するよう Copilot に頼みます。
 

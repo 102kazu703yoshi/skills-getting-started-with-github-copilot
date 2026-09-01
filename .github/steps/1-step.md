@@ -4,11 +4,11 @@
 
 演習では、GitHub Copilot のいろいろな機能を使って、Mergington High School の生徒が課外活動に申し込めるウェブサイトを作り込んでいきます。 🎻 ⚽️ ♟️
 
-<img width="600" alt="screenshot of Mergington High School WebApp" src="../images/mergington-high-school-webapp.png" />
+<img width="600" alt="screenshot of Mergington High School WebApp" src="https://github.com/102kazu703yoshi/skills-getting-started-with-github-copilot/blob/main/.github/images/mergington-high-school-webapp.png?raw=true" />
 
 ### 📖 理論: GitHub Copilot を知る
 
-<img width="150" align="right" alt="copilot logo" src="../images/copilot-logo.png" />
+<img width="150" align="right" alt="copilot logo" src="https://github.com/102kazu703yoshi/skills-getting-started-with-github-copilot/blob/main/.github/images/copilot-logo.png?raw=true" />
 
 GitHub Copilot は AI コーディングアシスタントです。コードを速く、少ない手間で書けるようにし、問題解決や共同作業により多くの力を使えるようにします。
 
@@ -46,9 +46,9 @@ IDE で作業するとき、GitHub Copilot とは主に次の形でやり取り�
 1. ブラウザーの中で Visual Studio Code が読み込まれるまで少し待ちます。
 1. 左のサイドバーで拡張機能タブをクリックし、`GitHub Copilot Chat` と `Python` の拡張機能がインストールされ、有効になっていることを確認します。
 
-   <img width="350" alt="copilot extension for VS Code" src="../images/copilot-extension-vscode.png" />
+   <img width="350" alt="copilot extension for VS Code" src="https://github.com/102kazu703yoshi/skills-getting-started-with-github-copilot/blob/main/.github/images/copilot-extension-vscode.png?raw=true" />
 
-   <img width="350" alt="python extension for VS Code" src="../images/python-extension-vscode.png" />
+   <img width="350" alt="python extension for VS Code" src="https://github.com/102kazu703yoshi/skills-getting-started-with-github-copilot/blob/main/.github/images/python-extension-vscode.png?raw=true" />
 
    <details>
    <summary>🔎 GitHub Copilot Chat 拡張機能が見当たらないとき ❓</summary>
@@ -57,7 +57,7 @@ IDE で作業するとき、GitHub Copilot とは主に次の形でやり取り�
 
    | ステータスバーのアイコン                                                                                                | サインインが必要                                                                                         | Copilot が有効                                                                                                  |
    | ----------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-   | <img width="300" alt="Copilot menu prompting the user to use AI features" src="../images/copilot-sign-in-button.png" /> | <img width="300" alt="Copilot chat sign in button" src="../images/copilot-sign-in-button-clicked.png" /> | <img width="300" alt="Copilot menu showing inline suggestions enabled" src="../images/copilot-signed-in.png" /> |
+   | <img width="300" alt="Copilot menu prompting the user to use AI features" src="https://github.com/102kazu703yoshi/skills-getting-started-with-github-copilot/blob/main/.github/images/copilot-sign-in-button.png?raw=true" /> | <img width="300" alt="Copilot chat sign in button" src="https://github.com/102kazu703yoshi/skills-getting-started-with-github-copilot/blob/main/.github/images/copilot-sign-in-button-clicked.png?raw=true" /> | <img width="300" alt="Copilot menu showing inline suggestions enabled" src="https://github.com/102kazu703yoshi/skills-getting-started-with-github-copilot/blob/main/.github/images/copilot-signed-in.png?raw=true" /> |
 
    サインインが確認できていれば、拡張機能タブに表示されていなくても先に進めます。
 
@@ -65,14 +65,14 @@ IDE で作業するとき、GitHub Copilot とは主に次の形でやり取り�
 
 1. VS Code の上部にある **Toggle Chat アイコン**を見つけてクリックし、Copilot Chat のサイドパネルを開きます。
 
-   <img width="150" alt="image" src="../images/toggle-chat-icon.png" />
+   <img width="150" alt="image" src="https://github.com/102kazu703yoshi/skills-getting-started-with-github-copilot/blob/main/.github/images/toggle-chat-icon.png?raw=true" />
 
    > 🪧 **注:** GitHub Copilot を初めて使う場合は、先に進むために利用規約への同意が必要になることがあります。
 
 
 1. 最初のやり取りなので、**Ask Mode** になっていることを確認します。
 
-   <img width="350" alt="screenshot showing Ask Mode selection in Copilot Chat" src="../images/ask-mode-selection.png" />
+   <img width="350" alt="screenshot showing Ask Mode selection in Copilot Chat" src="https://github.com/102kazu703yoshi/skills-getting-started-with-github-copilot/blob/main/.github/images/ask-mode-selection.png?raw=true" />
 
 1. 次のプロンプトを入力して、Copilot にプロジェクトを紹介してもらいます。
 
@@ -87,13 +87,13 @@ IDE で作業するとき、GitHub Copilot とは主に次の形でやり取り�
 
 1. プロジェクトのことが少しわかったので、実際に動かしてみましょう。左のサイドバーで `Run and Debug` タブを選び、**Start Debugging** アイコンを押します。
 
-   <img width="300" alt="image" src="../images/run-and-debug-tab.png" />
+   <img width="300" alt="image" src="https://github.com/102kazu703yoshi/skills-getting-started-with-github-copilot/blob/main/.github/images/run-and-debug-tab.png?raw=true" />
 
 1. ブラウザーでウェブページを見たいので、URL とポートを探します。表示されていない場合は、下部のパネルを開いて **Ports** タブを選びます。
 
 1. 一覧からポート `8000` と、対応するリンクを探します。リンクにマウスを重ね、**Open in browser** のアイコンを選びます。
 
-   ![image](../images/open-in-browser-icon.png)
+   ![image](https://github.com/102kazu703yoshi/skills-getting-started-with-github-copilot/blob/main/.github/images/open-in-browser-icon.png?raw=true)
 
 ### :keyboard: やること: ターミナルのコマンドを Copilot に思い出させてもらう 🙋
 

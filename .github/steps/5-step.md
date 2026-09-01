@@ -29,11 +29,11 @@
 
 1. （任意）PR の説明欄のツールバーで **Copilot** アイコンをクリックし、**Summary** を選びます。少し待つと、変更内容にもとづいた説明が Copilot によって追加されます。 :memo:
 
-   <img alt="Copilot summarize button" width="450px" src="../images/copilot-summarize-button.png">
+   <img alt="Copilot summarize button" width="450px" src="https://github.com/102kazu703yoshi/skills-getting-started-with-github-copilot/blob/main/.github/images/copilot-summarize-button.png?raw=true">
 
 1. （任意）右側の情報パネルの上部にある **Reviewers** の欄で、**Copilot アイコン**の横の **Request** ボタンをクリックします。少し待つと、Copilot が pull request にレビューコメントを追加します。
 
-   <img alt="Copilot review button" width="300px" src="../images/copilot-review-button.png">
+   <img alt="Copilot review button" width="300px" src="https://github.com/102kazu703yoshi/skills-getting-started-with-github-copilot/blob/main/.github/images/copilot-review-button.png?raw=true">
 
    > 💡 **ヒント:** Copilot にレビューを依頼した記録がログに残ることに注目してください。
 
